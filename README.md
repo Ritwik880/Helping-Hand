@@ -34,9 +34,9 @@ This would be an enriching experience for all of us that are part of this team.
 
 ## 💥 Contributors
 
-- [Yash Khare](https://github.com/Souravdey777)
-- [Shambhavi Aggarwal](https://github.com/18-Ritika)
-- [Harsh Mishra](https://github.com/Ritwik880)
+- [Souravdey](https://github.com/Souravdey777)
+- [Ritika Jaiswal](https://github.com/18-Ritika)
+- [Ritwik Sinha](https://github.com/Ritwik880)
 
 ## 📜 LICENSE
 
