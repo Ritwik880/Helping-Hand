@@ -29,6 +29,7 @@ For this project, we will be collaborating on various domains like:
 - RESTful API Development
 - Prototyping Mobile Application using Flutter 
 - UI/UX Designing
+- Tensorflow
 
 This would be an enriching experience for all of us that are part of this team.
 
