@@ -12,7 +12,7 @@ Even with the rise of tools and technologies, mankind hasn’t implemented appli
 
 ## 🏁 Technology Stack
 
-* [Flutter](https://flutter.dev/)
+* [Python](https://Python.dev/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 * [Flask](https://flask.palletsprojects.com/)
@@ -25,7 +25,7 @@ Our primary purpose behind this project is to leverage and study how Deep Learni
 The Minimal Viable Product (MVP) would allow the Users to leverage Image Captioning Architecture to generate a real-time insight into their surroundings while using Natural Language Processing to speak out in a lucid manner. The cornerstone of the Application would be its User Interface which would infuse a lucid experience for the User with its ease of handling and use.
 
 For this project, we will be collaborating on various domains like: 
-- Data Modelling
+- Python
 - RESTful API Development
 - Prototyping Mobile Application using Flutter 
 - UI/UX Designing
